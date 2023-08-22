@@ -1,0 +1,1 @@
+{"name":"Local: Frog","url":"/home/sazzad/Documents/VS FIle/Frog.cpp","tests":[{"id":1692602214993,"input":"4\n10 30 40 20\n","output":"30"},{"id":1692602689656,"input":"6\n30 10 60 10 60 50\n","output":"40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sazzad/Documents/VS FIle/Frog.cpp","group":"local","local":true}

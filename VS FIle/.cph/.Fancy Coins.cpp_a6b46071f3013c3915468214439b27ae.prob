@@ -1,0 +1,1 @@
+{"name":"Local: Fancy Coins","url":"/home/sazzad/Documents/VS FIle/Fancy Coins.cpp","tests":[{"id":1692449289502,"input":"4\n11 3 0 0\n11 3 20 20\n11 3 6 1\n100000000 2 0 0","output":"5\n0\n1\n50000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sazzad/Documents/VS FIle/Fancy Coins.cpp","group":"local","local":true}
