@@ -1,0 +1,1 @@
+{"name":"Local: Frog_1","url":"/home/sazzad/Documents/Frog_1.cpp","tests":[{"id":1692732525461,"input":"4\n10 30 40 20","output":"30"},{"id":1692737231870,"input":"6\n30 10 60 10 60 50","output":"40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sazzad/Documents/Frog_1.cpp","group":"local","local":true}
